@@ -25,7 +25,7 @@ pra copiar o codigo HTML
 			<p>Oferecemos profissionais experientes e antenados ás mudanças no mundo da moda. O atendimento possui padrão de excelencia, agilidade e pronta entrega, garantindo qualidade e satisfação aos nossos clientes.</p>
 	    </div>
 
-	    <div class="beneficios">
+	    <div class="nossos beneficios">
 		    <h3 class="titulo-centralizado">beneficios</h3>
 
 		    <ul>
