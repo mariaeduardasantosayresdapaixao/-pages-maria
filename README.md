@@ -28,3 +28,23 @@
 		   <li class="itens">estabelencimento bem localizado</li>
 	   </ul>
 </body>
+vestido  de casamento da Dior
+ preço:2.500 dollares
+![Image](https://user-images.githubusercontent.com/108748799/201344711-92fcaf4c-ae2f-4b61-b870-4be2a4b5920d.png)
+
+vestido de casamento da Gucci
+preço:10.000 dollares
+![Image](https://user-images.githubusercontent.com/108748799/201344843-0e9275a4-78ab-4ec0-87fb-aa1450f11ab4.png)
+
+vestido de casamento Loius Vitton
+preço:12.000 dollares
+![Image](https://user-images.githubusercontent.com/108748799/201378892-906c7532-ce63-4d14-9004-7bb46f2a02a7.png)
+
+vestido de casamento da Versace
+preço:75.000 dollares
+![Image](https://user-images.githubusercontent.com/108748799/201380948-327b99bb-6c2d-4b56-b4ee-7b46305b655a.jpg)
+
+vestido de casamento da princesa Diana 
+preço:1.000.000 dollares
+![Image](https://user-images.githubusercontent.com/108748799/201382030-d3076bf9-9d8f-43aa-a932-654c60f9cbeb.jpg)
+
